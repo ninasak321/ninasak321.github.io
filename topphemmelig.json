@@ -1,0 +1,4 @@
+let "innlogingsinformasjon" = {
+  "brukernavn": "rektor",
+  "passord": "passord123"
+ }
